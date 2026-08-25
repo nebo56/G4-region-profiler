@@ -159,7 +159,5 @@ Bedrat A, Lacroix L, Mergny J-L. *Re-evaluation of G-quadruplex
 propensity with G4Hunter.* Nucleic Acids Research 44(4):1746–1759
 (2016). doi:10.1093/nar/gkw006
 
-## Author
 
-Nejc Haberman, Imperial College London
 
