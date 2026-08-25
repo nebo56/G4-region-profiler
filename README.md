@@ -11,7 +11,7 @@ window/threshold settings, and summarise the predictions two ways:
 
 - **per-region scores** (BED6+3): summed and maximum G4 score on the
   sense and antisense strand of every region — ready to join with gene
-  annotation or overlap with CLIP/ChIP peaks;
+  annotation or overlap with any other peaks;
 - **meta-profile**: summed G4 score at each nucleotide position relative
   to the anchor, aggregated across all regions.
 
